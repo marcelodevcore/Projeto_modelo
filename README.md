@@ -11,7 +11,6 @@ Develop a machine learning model that predicts the production cost per batch, ba
 
 **File Guide:**
 
-*Production Database - produtos3.csv
-*Exploratory Analysis - estudo_pandas.ipynb
-*Linear Regression Model - modelo_linear.ipynb
-
+* Production Database - produtos3.csv
+* Exploratory Analysis - estudo_pandas.ipynb
+* Linear Regression Model - modelo_linear.ipynb 
