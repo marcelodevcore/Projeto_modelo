@@ -1,14 +1,17 @@
-# Projeto (fictício) de Otimização do Custo de Produção da QuimTech S.A. 
+# Production Cost Optimization (Fictitious) Project for QuimTech S.A.
 
-**Objetivo:** 
+**Objective:**
 
-Desenvolver um modelo de machine learning que preveja o custo de produção por lote, com base em variáveis do processo produtivo, com alta precisão (idealmente com um erro médio absoluto percentual - MAPE - inferior a 5%). O modelo deverá permitir:
-*	Prever o custo de produção futuro: Com base em parâmetros conhecidos do processo.
-* Identificar os fatores que mais influenciam o custo: Auxiliando na tomada de decisões para otimizar o processo produtivo e reduzir custos.
-* Simular cenários: Avaliando o impacto de mudanças nos parâmetros de produção no custo final.
+Develop a machine learning model that predicts the production cost per batch, based on production process variables, with high precision (ideally with a mean absolute percentage error - MAPE - of less than 5%). The model should allow:
 
-**Guia de arquivos:**
-* Base de dados de Produção - produtos3.csv
-* Análise Exploratória - estudo_pandas.ipynb
-* Modelo de Regressão Linear - modelo_linear.ipynb
+*Predicting future production costs: Based on known process parameters.
+*Identifying the factors that most influence cost: Assisting in decision-making to optimize the production process and reduce costs.
+*Simulating scenarios: Evaluating the impact of changes in production parameters on the final cost.
+
+
+**File Guide:**
+
+*Production Database - produtos3.csv
+*Exploratory Analysis - estudo_pandas.ipynb
+*Linear Regression Model - modelo_linear.ipynb
 
